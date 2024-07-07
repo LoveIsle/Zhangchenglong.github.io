@@ -42,7 +42,7 @@ My research interests include multi-view learning, feature selection, and semi-s
 # 📖 Educations
 - *2018.09 - 2022.06*, China Jiliang University, Bachelor
   - Information and Computing Science, School of Science
-- *2022.09 - now*, Hangzhou Normal University, Master
+- *2022.09 - now*, Hangzhou Normal University, Masters Candidate
   - Computer Science and Technology, School of Information Science and Technology
 
 # 💻 Research
